@@ -20,13 +20,13 @@ This project is a mobile application that helps users filter locations such as r
 
 ## Screenshots
 
-| ![Screenshot 1](Map-Place-App/Assets.xcassets/1.imageset/1.png) | ![Screenshot 2](Map-Place-App/Assets.xcassets/2.imageset/2.png) | ![Screenshot 3](Map-Place-App/Assets.xcassets/3.imageset/3.png) |
+| ![Screenshot 1](Map-Place-App/Map-Place-App/Assets.xcassets/1.imageset/1.png) | ![Screenshot 2](Map-Place-App/Map-Place-App/Assets.xcassets/2.imageset/2.png) | ![Screenshot 3](Map-Place-App/Map-Place-App/Assets.xcassets/3.imageset/3.png) |
 |:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
-| *Home Screen*                                | *Location Filters*                           | *Map View*                                   |
+| *Map View*                                | *Location Selection View*                           | *Search View*                                   |
 
-| ![Screenshot 4](Map-Place-App/Assets.xcassets/4.imageset/4.png) | ![Screenshot 5](Map-Place-App/Assets.xcassets/5.imageset/5.png) | ![Screenshot 6](Map-Place-App/Assets.xcassets/6.imageset/6.png) |
+| ![Screenshot 4](Map-Place-App/Map-Place-App/Assets.xcassets/4.imageset/4.png) | ![Screenshot 5](Map-Place-App/Map-Place-App/Assets.xcassets/5.imageset/5.png) | ![Screenshot 6](Map-Place-App/Map-Place-App/Assets.xcassets/6.imageset/6.png) |
 |:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
-| *Location Details*                           | *User Reviews*   
+| *Place List View*                           | *Place Detail View*                               | *Map View (Polyline)*
 
 ## Installation
 
