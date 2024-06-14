@@ -8,8 +8,6 @@ This project is a mobile application that helps users filter locations such as r
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
