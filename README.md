@@ -58,9 +58,7 @@ To use the app, follow these steps:
 4. View the filtered locations on the map.
 5. Tap on a location to see more details, including ratings, reviews, and contact information.
 
-## Contributing
- - https://github.com/BartugKaan
- - https://github.com/osmancan23
+
 
 
 
